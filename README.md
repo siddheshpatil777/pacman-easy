@@ -1,0 +1,2 @@
+# pacman-easy
+pacman gme
